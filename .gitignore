@@ -1,2 +1,8 @@
 
 .ipynb_checkpoints/logistic-checkpoint.ipynb
+.ipynb_checkpoints/Ch.10 回归分析预测连续型目标变量-checkpoint.ipynb
+.ipynb_checkpoints/Ch.6 模型评估和参数调优-checkpoint.ipynb
+.ipynb_checkpoints/Ch.8 情感分析-checkpoint.ipynb
+.ipynb_checkpoints/Ch5.通过降维压缩数据-checkpoint.ipynb
+*.tar
+.ipynb_checkpoints/Gini-checkpoint.ipynb
